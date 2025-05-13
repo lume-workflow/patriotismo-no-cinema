@@ -51,5 +51,8 @@ Investigar se há relação entre o **momento histórico de lançamento** e a **
 
 ---
 
-## 📂 Estrutura do projeto
+## 📎 Fonte de dados
 
+- [TMDb API](https://www.themoviedb.org/documentation/api)
+
+---
