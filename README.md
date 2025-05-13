@@ -5,9 +5,9 @@ Este projeto analisa 100 filmes com temática patriótica usando dados reais da 
 
 ## 📌 Conclusão
 
-Filmes patrióticos não são mais populares em tempos de guerra — e sim em tempos de paz.
-Uma análise de 100 filmes com temática patriótica, usando dados da TMDb, mostrou que os lançamentos com maior popularidade média ocorreram em períodos de estabilidade nacional ou de tensão política interna — não em momentos de guerra real ou crise externa.
-Esse padrão revela uma possível função simbólica do cinema patriótico: reforçar identidades nacionais em tempos de calmaria ou disputas ideológicas, mais do que apenas servir como resposta emocional em momentos de conflito armado.
+Filmes patrióticos não são mais populares em tempos de guerra — e sim em tempos de paz. <br>
+Uma análise de 100 filmes com temática patriótica, usando dados da TMDb, mostrou que os lançamentos com maior popularidade média ocorreram em períodos de estabilidade nacional ou de tensão política interna — não em momentos de guerra real ou crise externa.<br>
+Esse padrão revela uma possível função simbólica do cinema patriótico: reforçar identidades nacionais em tempos de calmaria ou disputas ideológicas, mais do que apenas servir como resposta emocional em momentos de conflito armado. <br>
 
 Em resumo: o patriotismo nas telas parece florescer quando as nações estão tentando se lembrar de quem são — não apenas quando estão lutando contra inimigos externos.
 
