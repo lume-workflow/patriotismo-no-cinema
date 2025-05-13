@@ -6,7 +6,7 @@ Este projeto analisa 100 filmes com temática patriótica usando dados reais da 
 
 ## 🖼️ Visualização principal
 
-![Gráfico: Popularidade média por contexto histórico](gráfico popularidade e contexto.png)
+![Gráfico: Popularidade média por contexto histórico](grafico-popularidade-e-contexto.png)
 
 ---
 
