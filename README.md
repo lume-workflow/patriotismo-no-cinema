@@ -2,9 +2,19 @@
 
 Este projeto analisa 100 filmes com temática patriótica usando dados reais da TMDb API, com foco em compreender como **momentos históricos** (como guerras, crises ou estabilidade política) influenciam a **popularidade e avaliação pública** dessas produções.
 
+---
+
+## 🖼️ Visualização principal
+
+![Gráfico: Popularidade média por contexto histórico](gráfico popularidade e contexto.png)
+
+---
+
 ## 📌 Objetivo
 
 Investigar se há relação entre o **momento histórico de lançamento** e a **popularidade ou nota média** dos filmes patrióticos.
+
+---
 
 ## 🔍 Perguntas orientadoras
 
@@ -12,32 +22,25 @@ Investigar se há relação entre o **momento histórico de lançamento** e a **
 - A polarização política interna influencia o engajamento com filmes patrióticos?
 - O contexto histórico afeta a avaliação crítica (nota média) desses filmes?
 
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebooks
 - API da The Movie Database (TMDb)
 
+---
+
 ## 📊 Principais descobertas
 
-- 🎯 Filmes lançados em períodos **estáveis** ou de **tensão política interna** apresentaram **as maiores médias de popularidade**.
-- ⚔️ **Momentos de guerra real**, como Vietnã ou Segunda Guerra, não lideraram em engajamento.
-- ⭐️ As **notas médias** dos filmes se mantêm **relativamente estáveis entre os contextos**, sugerindo que **popularidade e avaliação são fenômenos distintos**.
+- 🎯 **Filmes lançados em períodos estáveis ou de polarização política interna** apresentaram **as maiores médias de popularidade.**
+- ⚔️ **Filmes lançados durante guerras reais (como Vietnã ou Segunda Guerra Mundial)** tiveram **popularidade média significativamente menor.**
+- ⭐️ **As notas médias dos filmes permaneceram estáveis** entre os diferentes contextos históricos, sugerindo que **popularidade e avaliação crítica são fenômenos distintos.**
+- ❗️ O filme *Oppenheimer* foi tratado como **outlier**, devido à sua popularidade atípica.
+- 🧠 **Filmes patrióticos parecem ganhar mais força em momentos de busca por identidade nacional** — seja em tempos de estabilidade, polarização interna ou incerteza política — do que em guerras propriamente ditas.
 
-## 📂 Estrutura
+---
 
-- `data/` — CSV com os dados brutos extraídos da API
-- `notebooks/` — Jupyter Notebook com toda a análise
-- `images/` — Visualizações destacadas (opcional)
-- `requirements.txt` — Bibliotecas utilizadas
-
-## 📎 Fonte de dados
-
-- [TMDb API](https://www.themoviedb.org/documentation/api)
-
-## 🧠 Próximos passos
-
-- Analisar variações por país de origem dos filmes
-- Incorporar indicadores políticos (ex: ano de eleições)
-- Explorar interações com outros gêneros (drama, ação, biografia)
+## 📂 Estrutura do projeto
 
