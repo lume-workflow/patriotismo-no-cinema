@@ -51,6 +51,16 @@ Investigar se há relação entre o **momento histórico de lançamento** e a **
 
 ---
 
+## 🔐 Como configurar sua chave da TMDb
+
+Este projeto usa a API do The Movie Database (TMDb), que exige uma chave para acessar os dados.
+
+1. Crie uma conta gratuita em [TMDb](https://www.themoviedb.org/)
+2. Vá até [Configurações > API](https://www.themoviedb.org/settings/api) e gere sua chave (v3)
+3. Crie um arquivo chamado `.env` na raiz do projeto com o seguinte conteúdo:
+
+
+
 ## 📎 Fonte de dados
 
 - [TMDb API](https://www.themoviedb.org/documentation/api)
