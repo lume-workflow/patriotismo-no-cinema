@@ -58,7 +58,7 @@ Este projeto usa a API do The Movie Database (TMDb), que exige uma chave para ac
 1. Crie uma conta gratuita em [TMDb](https://www.themoviedb.org/)
 2. Vá até [Configurações > API](https://www.themoviedb.org/settings/api) e gere sua chave (v3)
 3. Crie um arquivo chamado `.env` na raiz do projeto com o seguinte conteúdo:
-
+TMDB_API_KEY=sua_chave_aqui
 
 
 ## 📎 Fonte de dados
